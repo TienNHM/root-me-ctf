@@ -2,6 +2,8 @@
 
 Link: https://www.root-me.org/en/Challenges/Web-Client
 
+![](../images/web-client.jpg)
+
 ## 1. HTML - disabled buttons
 
 [▶ Xem chi tiết](HTML%20-%20disabled%20buttons/)
@@ -37,3 +39,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Client
 ## 9. Javascript - Obfuscation 4
 
 [▶ Xem chi tiết](Javascript%20-%20Obfuscation%204)
+
+## 10. Javascript - Webpack
+
+[▶ Xem chi tiết](Javascript%20-%20Webpack)
