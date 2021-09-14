@@ -4,7 +4,7 @@
 
 ![](sc.jpeg)
 
-Link: http://challenge01.root-me.org/web-client/ch13/ch13.html
+Link: [truy cập ngay 🔗](http://challenge01.root-me.org/web-client/ch13/ch13.html)
 
 ![](web.png)
 

@@ -4,7 +4,7 @@
 
 ![](sc.jpeg)
 
-Link: https://www.root-me.org/en/Challenges/Web-Client/Javascript-Webpack
+Link: [truy cập ngay 🔗](https://www.root-me.org/en/Challenges/Web-Client/Javascript-Webpack)
 
 ![](web.jpeg)
 
