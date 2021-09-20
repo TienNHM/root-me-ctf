@@ -43,3 +43,7 @@ Link: [https://www.root-me.org/en/Challenges/Web-Client](https://www.root-me.org
 ## 10. Javascript - Webpack
 
 [▶ Xem chi tiết](Javascript%20-%20Webpack)
+
+## 11. CSRF - 0 protection
+
+[▶ Xem chi tiết](CSRF%20-%200%20protection)
