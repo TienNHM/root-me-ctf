@@ -1,5 +1,7 @@
 # ROOT-ME CHALLENGES
 
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+
 ## Web Client
 
 [![](images/web-client.jpg)](Web-Client/)
