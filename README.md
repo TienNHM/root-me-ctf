@@ -1,6 +1,7 @@
 # ROOT-ME CHALLENGES
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+![Visitor Badge](https://visitor-badges.glitch.me?username=TienNHM&repo=root-me-ctf)
+
 
 ## Web Client
 
