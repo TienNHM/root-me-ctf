@@ -21,3 +21,7 @@ Link: [https://www.root-me.org/en/Challenges/Web-Server/](https://www.root-me.or
 ## 4. NoSQL Injection
 
 ▶ [Xem chi tiết](NoSQL%20Injection/)
+
+## 5. SQL Truncation
+
+▶ [Xem chi tiết](SQL%20Truncation)
