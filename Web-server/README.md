@@ -25,3 +25,7 @@ Link: [https://www.root-me.org/en/Challenges/Web-Server/](https://www.root-me.or
 ## 5. SQL Truncation
 
 ▶ [Xem chi tiết](SQL%20Truncation)
+
+## 6. Weak password
+
+▶ [Xem chi tiết](Weak%20password)
